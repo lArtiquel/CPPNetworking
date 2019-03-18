@@ -1,0 +1,12 @@
+"Domoy"
+100
+10h
+train
+"Maldivi"
+200
+20h
+plane
+"Otdih"
+300
+2h
+dirishabl'
