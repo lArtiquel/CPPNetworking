@@ -1,0 +1,4 @@
++2 +1 hello. how are u?
++1 +2 cool. and u?
++1 +2 did'n seen for a long time
++2 +1 yeah, i'm fine too...
